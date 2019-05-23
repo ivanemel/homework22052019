@@ -97,3 +97,14 @@ label {
     text-decoration: none;
 }
 
+a:visited{
+    color: blue;
+}
+
+nav a:hover{
+    color: fuchsia;
+}
+
+nav a:active{
+    color: red;
+}
